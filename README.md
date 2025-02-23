@@ -25,7 +25,7 @@ A **cross-platform** (macOS & Windows) Python-based **screenshot tool** that all
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/bogda1n/python-screenshot-script.git
+   git clone https://github.com/bogda1n/screenshot-tool.git
    cd screenshot-tool
 
 2. **Install dependencies**:
